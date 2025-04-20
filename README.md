@@ -1,9 +1,13 @@
-## Olá, eu me chamo Henrique
+## Olá, eu me chamo Henrique!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiAntonio17444anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio17444&show_icons=true&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiAntonio17444anuraghazra&count_private=true)
+### • 👨‍💻 _Linguagens e Tecnologias:_
+<div style="display: inline-block;">
+  <br>
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="java">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title= "python">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiAntonio17444anuraghazra&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiAntonio17444anuraghazra&show_icons=true&theme=tokyonight)
+##
